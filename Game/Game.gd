@@ -20,6 +20,7 @@ const CLAW_FRUITS := [Fruit.Type.CHERRY, Fruit.Type.STRAWBERRY, Fruit.Type.GRAPE
 # const CLAW_START_SEQUENCE := [Fruit.Type.CHERRY, Fruit.Type.CHERRY, Fruit.Type.STRAWBERRY, Fruit.Type.GRAPES]
 const CLAW_START_SEQUENCE := [
 	Fruit.Type.CHERRY, 
+	Fruit.Type.CHERRY,
 	Fruit.Type.STRAWBERRY, 
 	Fruit.Type.GRAPES, 
 	Fruit.Type.LEMON, 
@@ -29,7 +30,7 @@ const CLAW_START_SEQUENCE := [
 	Fruit.Type.PEACH,
 	Fruit.Type.PINEAPPLE,
 	Fruit.Type.MELON,
-	Fruit.Type.WATERMELON
+	#Fruit.Type.WATERMELON
 	]
 
 const FRUIT_FALL_FUSION_IMPULSE := 500
